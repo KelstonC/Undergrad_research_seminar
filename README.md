@@ -1,5 +1,5 @@
 # Welcome
-This contains various versions of the data and model work that was created in writing my seminar paper. 
+This contains various versions of the data and model work that was created in writing my seminar paper (final research paper in my undergrad). 
 The python work contains some of the data work and the code used to create the error correction model. 
 The paper is also included as a PDF. The paper goes over house price dynamics in Canada at the the aggregate level. 
 
